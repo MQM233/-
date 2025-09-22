@@ -18,7 +18,6 @@
 🚀 快速开始
 
 #安装依赖
-
 pip install pillow
 
 #交互式生成
@@ -64,4 +63,5 @@ python generate.py [-o OUTPUT] [-t THEME] [-m TEMPLATE] [--list-themes] [--list-
 
 
 让创作更简单，让封面更出彩！⭐如果这个项目对您有帮助，请给个 Star 支持一下！
+
 
