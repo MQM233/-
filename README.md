@@ -38,7 +38,10 @@ python generate.py [-o OUTPUT] [-t THEME] [-m TEMPLATE] [--list-themes] [--list-
 
 🎨 效果预览
 生成的封面图片尺寸为 1080×1440（3:4 比例），完美适配小红书平台要求，支持高分辨率输出。
-<img width="500" height="900" alt="Image" src="[https://github.com/user-attachments/assets/928d01d2-fd59-47c0-ad39-8660deda4839](https://github.com/user-attachments/assets/89f03885-4cb7-4649-816e-5a66cb654b59)" />
+<img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/273007a7-7157-452f-af8d-4f4b384fdc7f" />
+
+
 ##🔥 搭配Trae、Cursor等平台生成
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/673db4c2-bf6b-4305-80f9-f68aafbd1c0d" />
+
 
