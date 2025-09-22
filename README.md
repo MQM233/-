@@ -18,6 +18,7 @@
 🚀 快速开始
 
 #安装依赖
+
 pip install pillow
 
 #交互式生成
@@ -54,6 +55,7 @@ python generate.py [-o OUTPUT] [-t THEME] [-m TEMPLATE] [--list-themes] [--list-
 搭配自动发帖MCP
 
 🎨 效果预览
+
 生成的封面图片尺寸为 1080×1440（3:4 比例），完美适配小红书平台要求，支持高分辨率输出。
 
 <img width="480" height="930" alt="image" src="https://github.com/user-attachments/assets/273007a7-7157-452f-af8d-4f4b384fdc7f" />
@@ -65,6 +67,7 @@ python generate.py [-o OUTPUT] [-t THEME] [-m TEMPLATE] [--list-themes] [--list-
 
 
 让创作更简单，让封面更出彩！⭐如果这个项目对您有帮助，请给个 Star 支持一下！
+
 
 
 
